@@ -1,6 +1,7 @@
 theme: jekyll-theme-time-machine
 layout: post
-title: Short title
+title: Trademanza News
+description: Trademanza News for traders
 feature-title: A much longer title
 baseurl: "/docs"
 url: "https://gauravkumar28.github.io/"
