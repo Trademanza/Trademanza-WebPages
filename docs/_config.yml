@@ -5,3 +5,4 @@ description: Trademanza News for traders
 feature-title: A much longer title
 baseurl: "/docs"
 url: "https://gauravkumar28.github.io/"
+markdown: kramdown
