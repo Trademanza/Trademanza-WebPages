@@ -5,3 +5,8 @@ feature-title: A much longer title
 baseurl: "/"
 url: "https://gauravkumar28.github.io/TrademanzaWebPages"
 markdown: kramdown 
+collections:
+  posts:
+    title: Posts
+    output: true
+    
