@@ -1,1 +1,4 @@
 theme: jekyll-theme-time-machine
+layout: post
+title: Short title
+feature-title: A much longer title
