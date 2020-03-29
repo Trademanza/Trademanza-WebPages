@@ -1,4 +1,4 @@
-###Stock market hit by coronavirus: Reasons for turmoil, what equity investors should do now
+# Stock market hit by coronavirus: Reasons for turmoil, what equity investors should do now
 
 In just weeks, the Coronavirus pandemic has shaved off nearly a third of the global market cap. The Indian equity market bounced back valiantly on Friday, but the Sensex still closed 20% below the peak achieved two months ago. Investors can get some cold comfort that other markets have fallen more. The spread of the virus has triggered panic across the world and shaken the confidence of investors.
 
