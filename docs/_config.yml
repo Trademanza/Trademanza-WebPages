@@ -4,7 +4,8 @@ description: Trademanza News for traders
 feature-title: A much longer title
 baseurl: "/TrademanzaWebPages"
 url: "https://gauravkumar28.github.io/TrademanzaWebPages"
-markdown: kramdown 
+markdown: kramdown
+categories: TrademanzaWebPages
 collections:
   posts:
     title: Posts
