@@ -2,8 +2,8 @@ layout: post
 title: Trademanza News
 description: Trademanza News for traders
 feature-title: A much longer title
-baseurl: ""
-url: "https://gauravkumar28.github.io/TrademanzaWebPages/"
+baseurl: "/TrademanzaWebPages"
+url: "https://gauravkumar28.github.io"
 markdown: kramdown
 categories: TrademanzaWebPages
 collections:
