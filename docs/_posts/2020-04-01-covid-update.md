@@ -1,5 +1,5 @@
 # Covid-19: Sensex posts biggest quarterly fall, Nifty's worst in 28 years
-Meanwhile, foreign portfolio investors (FPIs) have pulled out net of Rs 55,007 crore (approx. $7.4 billion) from Indian equities in March 2020
+Meanwhile, [foreign portfolio investors (FPIs)](https://gauravkumar28.github.io/TrademanzaWebPages/glossaries/foreign-portfolmdio-investment-fpi.html) have pulled out net of Rs 55,007 crore (approx. $7.4 billion) from Indian equities in March 2020
 
 The S&P BSE Sensex has reported its sharpest quarterly fall, with the benchmark index slipping 28.6 per cent in the January-March 2020 period. The markets have entered a ‘bear phase’ following panic triggered by the rampant spread of Covid-19. A fall of 20 per cent or more from the peak for a stock or an index is considered bear market territory for that traded unit.
 
