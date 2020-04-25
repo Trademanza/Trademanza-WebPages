@@ -6,4 +6,4 @@ JPL is just behind HDFC bank in market value at the moment.
 Are we seeing an IPO coming after the globe recovers from this pandemic?
 
 
-[![Facebook Jio Investment](https://img.youtube.com/vi/I5L72wFXfrI/1.jpg)](https://www.youtube.com/watch?v=I5L72wFXfrI)
+[![Facebook Jio Investment](https://img.youtube.com/vi/I5L72wFXfrI/0.jpg)](https://www.youtube.com/watch?v=I5L72wFXfrI)
