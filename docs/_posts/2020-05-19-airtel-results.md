@@ -9,6 +9,6 @@ Positives:
 7. Dividend of 2 rs/ share
 
 Negatives:
-1. Posts a loss of Rs. 5237 Cr as they have pay Rs. 7,004 Cr for exceptional items such the recent judgement on One Time Spectrum Charges. 
+1. Posts a loss of Rs. 5237 Cr as they have to pay Rs. 7,004 Cr for exceptional items such the recent judgement on One Time Spectrum Charges. 
 
-The results looked solid in all aspects. With the current market price and support from the market, the stock can go to 5559 in the near term
+The results looked solid in all aspects. With the current market price and support from the market, the stock can go to 560 levels in the near term
