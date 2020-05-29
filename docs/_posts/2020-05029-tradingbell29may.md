@@ -9,4 +9,4 @@
 
 Nifty to open gapdown near 9400 levels and test the support at 9380. If there is a fall in Nifty that would be majorly account by Nifty bank because they rose a lot in the last 2 days. Expect Nifty to close near 9400 as today is friday and traders shall close their positions.
 
-Sectors to watch: Lupin disappoints in terms of numbers but the b-street already has this view, Radico Khaithan posted brilliant numbers
+Sectors to watch: Lupin disappoints in terms of numbers but the b-street already has this view, Radico Khaithan posted brilliant number, Voltas to post results today and the numbers should be decent
