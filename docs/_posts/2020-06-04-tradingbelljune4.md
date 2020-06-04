@@ -7,6 +7,6 @@
 6. We have weekly expiry today, most number of call options at 10000 strike and most number of put options at 9500 strike. 
 7. USD at 75.46 INR, up by 10 paisa
 
-Nifty to open gap up above 10100 levels and test both the supports and resistance on both the sides. We expect positional trades in markets due to weekly expiry
+Nifty to open gap up above 10100 levels and test support and resistance on both the sides. We expect positional trades in markets due to weekly expiry
 
 Sectors to watch: Aurobindo Pharma posts robust numbers in all fronts; BPCL results do not meet b-street estimates; SBI, LnT, Gujarat Gas and Exide to posts results tomorrow
