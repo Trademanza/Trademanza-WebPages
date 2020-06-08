@@ -9,4 +9,4 @@
 
 We expect Nifty to open gap up breaking both the resistances at 10250 levels. Then, we expect Nifty to test 10190 and 10360 levels
 
-Sectors to watch: SBIN posted excellent numbers but the news came in the trading hours and stil in buy, titan to have results today, a new investment in Jio from Abu Dhabi Investment Authority
+Sectors to watch: SBIN posted excellent numbers but the news came in the trading hours and stil in buy, titan to have results today, a new investment in Jio from Abu Dhabi Investment Authority, LnT posted brilliant numbers
