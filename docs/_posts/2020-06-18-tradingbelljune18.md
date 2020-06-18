@@ -6,7 +6,7 @@ Points you need to know before the trading bell
 4. Key levels of bank nifty: bank nifty support at 19650 & 19010, resistances at 20560 & 20920, and Last traded at 20201.
 5. Results to be announced today: Bajaj Consumer Care, IRB Infrastructure Developers, City Union Bank, Suven Pharmaceuticals, Thermax, Amrutanjan Healthcare, Asian Oilfield Services, Brigade Enterprises, Capacite Infraprojects, Caplin Point Laboratories, CARE Ratings, GSFC, Gujarat Alkalies, Hikal, Magma Fincorp, MOIL, Thomas Cook (India), VST Tillers Tractors and Whirlpool of India.
 6. Most number of call options at 10000 strike and most number of put options at 9500 strike.
-7. USD at 76.21 INR, up by 19 paisa.
+7. USD at 76.15 INR, up by 6 paisa.
 
   We expect NIFTY to open gap down near 9850 levels. We expect Nifty to test 9740 levels and close above 9900 levels as today is expiry. 
 
