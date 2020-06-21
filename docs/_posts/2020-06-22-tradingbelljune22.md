@@ -10,4 +10,4 @@
 
 We expect NIFTY to open gap down near 10150 levels and take first support at 10120 levels. We are witnessing a huge sell off in US markets owing to Covid-19 wave. We expect NIFTY to swing between 10000 and 10200 levels for tomorrow.
 
-Stocks to watch: Pharma stocks such as Cipla, Glenmark, Strides Pharma; LIC housing finance posted bad numbers but declares dividend of Rs 8/sh; Dalmia Bharat Sugars posts good numbers
+Stocks to watch: Pharma stocks such as Cipla, Glenmark, Strides Pharma; LIC housing finance posted bad numbers but declares dividend of Rs 8/sh; Dalmia Bharat Sugars posts good numbers; Powergrid posts great numbers; Cochin Shipyard posts great numbers' PNb's asset quality increases but losses continue.
