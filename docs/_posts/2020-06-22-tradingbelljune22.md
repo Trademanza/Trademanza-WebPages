@@ -4,7 +4,7 @@
 2. WTI Crude and Brent Crude July futures at 39.45 and 41.84 dollars respectively. 
 3. Key of levels of Nifty: we expect Nifty to open near 10150 levels just above its key support at 10120, supports at 10120 and 10000, resistance at 10320 and 10400.
 4. Key levels of bank nifty: bank nifty support at 20988 and 20638, resistances at 21578 and 21818, and Last traded at 21338.
-5. Results to be announced today: s Logistics, AIA Engineering, Balaji Amines, Dhanlaxmi Bank, Kirloskar Industries, Morepen Laboratories, OnMobile Global, Skipper, Sudarshan Chemical Industries, The Investment Trust Of India, UFO Moviez.
+5. Results to be announced today: Aegis Logistics, AIA Engineering, Balaji Amines, Dhanlaxmi Bank, Kirloskar Industries, Morepen Laboratories, OnMobile Global, Skipper, Sudarshan Chemical Industries, The Investment Trust Of India, UFO Moviez.
 6. Most number of call options at 10500 strike and most number of put options at 10000 strike.
 7. USD at 76.19 INR, up by 5 paisa.
 
