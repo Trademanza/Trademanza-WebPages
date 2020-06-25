@@ -10,4 +10,4 @@
 
 We expect a gapdown opening from NIFTY near 10250 levels. We expect positional trades as today is June's expiry. However, all the positions have been covered in the last few sessions and do not expect huge upside. 
 
-Stocks to watch: IT and pharma, ITC, Ashok Leyland, Canara bank posts losses but asset quality increases, sell off of Sical Logistics shares in open market, IOC posts bad results, PFC profit decline
+Stocks to watch: IT and pharma, ITC, Ashok Leyland, Canara bank posts losses but asset quality increases, sell off of Sical Logistics shares in open market, IOC posts bad results, PFC profit decline, GAIL posted beautiful numbers
