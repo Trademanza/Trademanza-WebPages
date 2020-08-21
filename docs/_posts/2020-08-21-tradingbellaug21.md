@@ -1,5 +1,5 @@
 # Points you need to know before the expiry day's bell
-1.NIFTY futures is trading near 11380 in Singaporean Exchange. Dow Jones closed almost flat below 27750. Futures opened slightly positive above 27700 levels
+1. NIFTY futures is trading near 11380 in Singaporean Exchange. Dow Jones closed almost flat below 27750. Futures opened slightly positive above 27700 levels
 2. WTI Crude and Brent Crude July futures at 42.90 and 45.46 dollars respectively.
 3. Key of levels of Nifty: we expect Nifty to open sliglhty postive near 11350 levels, key supports at 11280 and 11250, key resistances at 11350 and 11390.
 4. Key levels of bank nifty: bank nifty support at 21900 and 21800, resistances at 22090 and 22180 and Last traded at 21999
