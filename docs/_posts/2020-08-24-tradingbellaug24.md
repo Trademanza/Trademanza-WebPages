@@ -5,7 +5,7 @@
 4. Key levels of bank nifty: bank nifty support at 22190 and 22090, resistances at 22380 and 22450 and Last traded at 22300
 5. Results to be announced today: LIC Housing Finance, IRB Infrastructure Developers, Globus Spirits, Indraprastha Medical Corporation, Ingersoll-Rand India, NOCIL, Parabolic Drugs, Suzlon Energy
 6. We have weekly expiry today, most number of call options at 11500 strike and most number of put options at 11000 strike. So, NIFTY shall face huge resistance to cross 11500 levels in this series.
-7. USD at 74.84 INR, up by 19 paisa
+7. USD at 74.84 INR, down by 19 paisa
 
 Nifty to open slightly positive near 11400 levels i.e. near its first key resistance. Consolidations happening to breaking the series resistance of 11500. NIFTY shall swing between both supports and resistance.
 
