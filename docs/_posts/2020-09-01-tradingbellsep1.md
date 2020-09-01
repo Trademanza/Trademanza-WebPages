@@ -2,7 +2,7 @@
 1. NIFTY futures is trading above 11400 levels. Dow Jones closed above 28400 and futures opened positive trading at 28450.
 2. WTI Crude and Brent Crude July futures at 43.05 & 45.69 dollars respectively.
 3. Key of levels of Nifty: we expect Nifty to open flat near 11400, key supports at 11210 and 11034, key resistances at 11670 and 11970.
-4. Key levels of bank nifty: bank nifty support at 23015 and 22276, resistances at 23016 and 22277, and Last traded at 23754.
+4. Key levels of bank nifty: bank nifty support at 23015 and 22276, resistances at 24862 and 25971, and Last traded at 23754.
 5. Results to be announced today: Oil and Natural Gas Corporation (ONGC), Anant Raj, Fiem Industries, Shalimar Paints.
 6. We have weekly expiry today, most number of call options at 11600 strike and most number of put options at 12000 strike. Huge call writings have happened in 11500 to 11700 yesterday
 7. USD at 73.61 INR, up by 22 paisa
