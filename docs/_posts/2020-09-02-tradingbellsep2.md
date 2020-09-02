@@ -5,7 +5,7 @@
 4. Key levels of bank nifty: bank nifty support at 23456 and 23101, resistances at 24184 and 24555, and Last traded at 23812 and pivot placed at 23828.
 5. Results to be announced today: Coal India, Arvind Fashions, Bannari Amman Sugars, Dish TV India, Infibeam Avenues, Jubilant FoodWorks, Kernex Microsystems, Navkar Corporation, Sadbhav Engineering, Sandur Manganese, Satin Creditcare Network.
 6. We have weekly expiry today, most number of call options at 12000 strike and most number of put options at 11000 strike.
-7. USD at 73.61 INR, up by 22 paisa
+7. USD at 72.86 INR, down by 42 paisa
 
 Nifty to open near 11450 levels. Tensions back at India- China borders as the talks held are conclusive, be cautious as the market is bearish and ensure no fresh positions to be taken. 
 
