@@ -9,4 +9,4 @@
 
 Nifty to open down gap down below 10450 levels i.e below both the first and second key resistance. Huge profit booking happened in US market and expect the market to take support at 11280.
 
-Sectors to watch: CGSFC starts methanol plant of cap 525MT, CreditAccessGrameen board approve fundraising of 1000cr through equity, Adani gas rating by ICRA gets upgraded with an outlook stable, HAL to start OFS to its employees at a floor price of 950/sh from sep4-9, Minsdpace Board to consider fundraise on sep14 through debentures, Seacoast shipping company board approves bonus in ratio 2:1
+Sectors to watch: GSFC starts methanol plant of cap 525MT, CreditAccessGrameen board approve fundraising of 1000cr through equity, Adani gas rating by ICRA gets upgraded with an outlook stable, HAL to start OFS to its employees at a floor price of 950/sh from sep4-9, Minsdpace Board to consider fundraise on sep14 through debentures, Seacoast shipping company board approves bonus in ratio 2:1
