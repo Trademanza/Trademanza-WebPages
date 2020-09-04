@@ -1,5 +1,5 @@
 # Points you need to know before the trading bell
-1. NIFTY futures is trading above 11400 levels. Dow Jones fell 800 points to closed just below  28300 on account of closing their positions on tech stocks. Futures trading near 28150 levels
+1. NIFTY futures is trading above 11400 levels. Dow Jones fell 800 points to closed just below  28300 on account of closing their positions on tech stocks. Futures trading near 28250 levels
 2. WTI Crude and Brent Crude July futures at 41.18 and 44.09 $ respectively.
 3. Key of levels of Nifty: we expect Nifty to open gap down below 11450 levels, key supports at 11495 and 11462, key resistances at 11572 and 11617.
 4. Key levels of bank nifty: bank nifty support at 23304 and 23078, resistances at 23904 and 24277 , and Last traded at 23530.
