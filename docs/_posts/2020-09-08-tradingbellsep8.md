@@ -2,7 +2,7 @@
 1. NIFTY futures is trading below 11400 levels. US markets were closed yesterday on the occasion of labour day. Dow Futures is trading above 28300 levels on account of reduction in un-employment claims and increase in non-farm payroll income.
 2. WTI Crude and Brent Crude July futures at 39.43 and 42.21 $ respectively.
 3. Key of levels of Nifty: we expect Nifty to open flat near 11350 levels, key supports at 11277 and 11199, key resistances at 11407 and 11459.
-4. Key levels of bank nifty: bank nifty support at 22737 and 22530, resistances at 22311 and 23317, and Last traded at 22945.
+4. Key levels of bank nifty: bank nifty support at 22737 and 22530, resistances at 23131 and 23317, and Last traded at 22945.
 5. Results to be announced today: CESC, Dishman Carbogen Amcis, Future Consumer, Jindal Stainless, Mafatlal Industries, Bal Pharma, Sharon Bio-Medicine, Simplex Projects, SML Isuzu, Spencer's Retail, Texmaco Rail & Engineering .
 6. We have weekly expiry today, most number of call options at 11500 strike and most number of put options at 11000 strike.
 7. USD at 73.34 INR, up by 20 paisa
