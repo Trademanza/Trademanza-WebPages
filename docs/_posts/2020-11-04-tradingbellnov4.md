@@ -5,7 +5,7 @@
 4. Key levels of bank nifty: bank nifty support at 25258 and 24834, resistances at 25934 and 26185, and Last traded at 25682.
 5. We have weekly expiry today, most number of call options at 12000 strike and most number of put options at 11000 strike.
 6. USD at 74.41 INR, down by 2 paisa
-7. Global triggers: American Elections
+7. Global triggers: China Services PMI, EU Economic Forecasts
 8. Results today: State Bank of India, Lupin, HPCL, Adani Enterprises, Adani Green Energy, Apollo Tyres, Asahi India Glass, Balrampur Chini Mills, BASF India, Gati, Godrej Agrovet, Greenply Industries, Happiest Minds Technologies, Hikal, Indian Hotels, JK Lakshmi Cement, Jubilant Life Sciences, Jyothy Labs, Kalpataru Power Transmission, KEC International, Nelco, Nilkamal, Pidilite Industries, Praj Industries, SRF, Thermax and United Spirits.
 
 NIFTY to open near 11800. Lockdown in Europe again anda raising covid numbers are not allowimg any positive movement. However, all the traders need to be cautious in the this week owing to Bihar Elections and the US elections. 
