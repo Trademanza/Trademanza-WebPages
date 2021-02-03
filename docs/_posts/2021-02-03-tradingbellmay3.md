@@ -1,7 +1,7 @@
 # Points you need to know before the Trading bell
 1. NIFTY futures is trading near 14750 levels. Dow Jones closed below 30700 and futures trading slightly positive above 30600.
 2. WTI Crude and Brent Crude December futures at 54.88 & 57.62 $ respectively. 
-3. Key of levels of Nifty: we expect Nifty to open above 14700 levels, key supports at 13849 and 13418, key resistances at 14524 and 14768.
+3. Key of levels of Nifty: we expect Nifty to open above 14700 levels, key supports at 14500 and 14353, key resistances at 14763 and 14878.
 4. Key levels of bank nifty: bank nifty key supports at 33683 and 33098, key resistances at 34753 and 35237.
 5. Most number of call options at 15000 strike and most number of put options at 14000 strike.
 6. USD at 73.96 INR, down by 6 paisa
