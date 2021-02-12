@@ -8,7 +8,7 @@
 7. Global triggers: India CPI,UK GDP,US Baker Hughes Oil rig count, EU Industrial production
 8. Results today: Grasim Industries, Bharat Forge, Glenmark Pharmaceuticals, Advanced Enzyme Technologies, Anant Raj, Apollo Micro Systems, Apollo Hospitals Enterprise, Bharat Dynamics, Cochin Shipyard, Dilip Buildcon, Delta Corp, Embassy Office Parks REIT, Force Motors, GE T&D India, GIC Housing Finance, GMR Infrastructure, Godrej Industries, Hindustan Aeronautics, Indiabulls Housing Finance, Inox Wind, ITI, Lux Industries, Mazagon Dock Shipbuilders, Mishra Dhatu Nigam, MOIL, Motherson Sumi Systems, Nagarjuna Fertilizers, NALCO, The New India Assurance Company, PC Jeweller, PTC India, Siemens, Sobha, Sterling and Wilson Solar, Voltas and Zuari Agro Chemicals
 
-NIFTY to open flat to slightly negative below 15100. We expect huge volatility as today is thursday.
+NIFTY to open flat to slightly negative above its pivot level i.e. 15142.
 
 Stocks to watch: 
 1. ITC shows recovery in cigarette sales and confirms a divend of 5 rs/share
