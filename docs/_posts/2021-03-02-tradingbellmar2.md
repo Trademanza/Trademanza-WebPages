@@ -8,7 +8,7 @@
 7. Global triggers: German Unemployment rate, Japan 10 year JGB auction, Japan jobs ratio, EU CPI, US API Crude weekly report
 8. Results today: Jump Networks
 
-NIFTY to open gap flat to slightly positive near 14800 levels.Camlin Fine | The company will restart Palghar manufacturing unit on March 2.
+NIFTY to open gap flat to slightly positive near 14800 levels. Japanese 10 year bonds on sales today so expect volatility.
 
 Stocks to watch:
 1. BPCL, IOC, HPCL | BPCL board approved sale of entire stake in Numaligarh Refinery for Rs 9,875 crore. Oil India, Engineers India and Government of Assam will be picking up the stake.
