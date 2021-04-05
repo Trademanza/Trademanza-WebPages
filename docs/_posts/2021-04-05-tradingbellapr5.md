@@ -1,5 +1,4 @@
 # Points you need to know before the Trading bell
-8. Maruti Suzuki India | Suzuki Motor Gujarat (SMG), a 100 percent subsidiary of Suzuki Motor Corporation for the production of automobiles in India, has completed construction of the plant C, and started production from April 2021. "With production starting at the Plant C, which has an annual production ability of 2,50,000 units, together with Plant A and Plant B, the total ability of SMG will be 750,000 units," said the company in its BSE filing
 1. NIFTY futures is trading above 14900 levels. Dow Jones closed below 33150 and futures trading +ve near 33250 levels.
 2. WTI Crude and Brent Crude December futures at 61.02 & 64.28 $ respectively. 
 3. Key of levels of Nifty: we expect Nifty to open flat near 14900 levels, key supports at 14745 and 14623, key resistances at 14936 and 15005.
