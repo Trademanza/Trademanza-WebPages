@@ -2,14 +2,12 @@
 
 1. NIFTY futures is trading near 14900 levels. Dow Jones closed below 33500 and futures trading flat near 33350.
 2. WTI Crude and Brent Crude December futures at 59.33 & 62.60 $ respectively.
-3. Key of levels of Nifty: we expect Nifty to open above 14650 levels, key supports at 14685 
-4.  IRCTC: Has temporarily suspended Lucknow-New Delhi Tejas Express until April 30, due to recent increase in coronavirus cases.
-5.  and 14552, key resistances at 14916 and 15013.
-6. Key levels of bank nifty: bank nifty key supports at 32357 and 31724, key resistances at 33408 and 33825.
-7. Most number of call options at 15000 strike and most number of put options at 14000 strike.
-8. USD at 74.55 INR, up by 112 paisa.
-9. Global triggers: UK & German IHS Markit Construction PMI, ECB Monetary Policy, US Initial Jobless claims, US Fed chair Powell speaks
-10. Results today: Minal Ind, Sunraj Diamond Exports, SEL Manufacturing company limited.
+3. Key of levels of Nifty: we expect Nifty to open above 14650 levels, key supports at 14685 and 14552, key resistances at 14916 and 15013.
+4. Key levels of bank nifty: bank nifty key supports at 32357 and 31724, key resistances at 33408 and 33825.
+5. Most number of call options at 15000 strike and most number of put options at 14000 strike.
+6. USD at 74.55 INR, up by 112 paisa.
+7. Global triggers: UK & German IHS Markit Construction PMI, ECB Monetary Policy, US Initial Jobless claims, US Fed chair Powell speaks
+8. Results today: Minal Ind, Sunraj Diamond Exports, SEL Manufacturing company limited.
 
 NIFTY to open slightly positive above 14850 levels. Markets are looking weak owing to lockdown measures implemented in many parts of the country.  Rupee registered highest day-fall in last 20 months as RBI announced it shall be buying G-sec in Q1FY22.As today is thursday, we can expect huge volatility.
 
