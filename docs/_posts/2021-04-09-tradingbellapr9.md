@@ -1,0 +1,19 @@
+# Points you need to know before the Trading bell
+
+1. NIFTY futures is trading above 14900 levels. Dow Jones closed above 33500 and futures trading flat near 33400.
+2. WTI Crude and Brent Crude December futures at $ 59.75 & 63.07 respectively.
+3. Key of levels of Nifty: we expect Nifty to open flat abovr 14800 levels, key supports at 14801 and 14729, key resistances at 14965 and 15056.
+4. Key levels of bank nifty: bank nifty key supports at 32556 and 32329, key resistances at 33158 and 33534.
+5. Most number of call options at 15000 strike and most number of put options at 14000 strike.
+6. USD at 74.59 INR, up by 4 paisa.
+7. Global triggers: China CPI & PPI, German Industrial Production & Trade Balance, US PPI, US WASDE Report, Baker Hughes Oil Rig Count
+8. Results today: Integrated Capital Services
+
+NIFTY to open slightly positive above 14850 levels. Markets are looking weak owing to lockdown measures implemented in many parts of the country. As today is friday, we can expect huge volatility.
+
+Stocks to watch:
+1. Infosys: ArcelorMittal has announced a strategic long-term collaboration with the company for digital transformation. Infosys will help ArcelorMittal accelerate its digital transformation journey and enable next-generation application management and business process management services for ArcelorMittal Europe. The collaboration will further strengthen Infosys’ presence in Europe and will enable it to maximise synergies across the ArcelorMittal Group worldwide.
+2. SREI Infrastructure Finance: SREI Equipment Finance, a material subsidiary of the company, has received expression of interest from two international private equity funds - U.S.-based Arena Investors and Singapore's Makara Capital Partners for capital infusion worth $250 million. Strategic coordination committee of SREI Equipment Finance will coordinate, negotiate and conclude discussions with the PE investors to bring the capital into the business and advise the management. Ernst & Young to advise the committee on the proposed fund raising exercise. The committee will also be the nodal point for a comprehensive cash flow realignment plan with banks and financial institutions and for all external service providers, including investment bankers, lawyers and consultants. The capital infusion will provide cushion against the pandemic induced stress in the Indian financial services space.
+3. Hindalco: Novelis has committed to become a net carbon-neutral company by 2050. It has also committed to reduce its carbon footprint by 30% and waste to landfills by 20% by 2026. The company also aims to reduce its energy intensity and water consumption by 10% each by 2026. Further, it will continue increasing the use of recycled content in its products.
+4. Ashok Leyland, Siemens: Switch Mobility Automotive and Siemens have entered into a Memorandum of Understanding towards building a co-operative technological partnership in electric commercial mobility segment and execute eMobility projects in India. The MOU is aimed at delivering efficient, cost-effective and sustainable eMobility solutions to various commercial vehicle customers in India. Further, as part of the MoU, Siemens Financial Services, the financing arm of Siemens AG, will consider a minority investment in OHM Global Mobility, the eMaas platform company to be formed as a subsidiary of Switch Mobility Automotive.
+5. Zensar Technologies: Has announced a strategic partnership with U.S.-based Claimatic. The collaboration will enable the company to offer insurers digital solutions that will help them remain competitive and differentiate themselves. The partnership will bring together deep skills in insurance and technology strategy, product ideation, technology development and deployment, and organizational change management to support clients through successful claims automation transformations.
