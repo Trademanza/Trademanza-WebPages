@@ -9,9 +9,6 @@
 7. Global triggers: Bank of Japan Gov speaks, US initial jobless claims, UK BOE Credit Conditions SurveySterlite Technologies: Openreach has selected the company as a strategic partner to help build its new U.K. full-fibre network. Sterlite Tech will be responsible for delivering millions of kilometres
 8.  of optical fibre cable to support the build over the next three years.
 9. Results today: Wipro,Tinplate, Blue bends, Hathaway Bhawani Cabletel
-10. Aditya Birla Capital: Board accords approval for Aditya Birla SuUPL: Supreme Court of Queensland in Australia has dismissed a class action litigation against Advanta Seeds Pty, a subsidiary of the company. The class action, funded by a U.K.-based litigation funder, alleged that seeds sold by A
-11. dvanta in 2010-11 to certain growers in the Queensland and New South Wales region of Australia, were contaminated.n Life AMC's IPO. The company will sell 28.5 lakh shares of the face value of Rs 5 each that it holds in Aditya Birla Sun Life AMC out of the paid-up share capital of 28.8 crore shares through the IPO. Sun Life (India) AMC Investments, the company's joint venture shareholder has also approved the sale of 3.6 crore shares of Aditya Birla Sun Life AMC. The proposed sale by both partners will constitute 13.5% of the total paid-up share capital.
-12. 
 
 NIFTY to open near 1st key resistance for the day i.e. 14598. Markets are reacting positively after Maharashtra announced section 144 rather than complete lockdown and also easing of bond yields on fear of inflation is also plus.
 
